@@ -3,13 +3,11 @@
 def fizzbuzz(int)
   if int % 3 == 0  # if the number is divisible by 3 then modulous/remainder should be 0
     "Fizz"
-elsif int % 5 ==0
+  elsif int % 5 ==0
   "Buzz"
-elsif int % 3 == 0 && int % 5 == 0
+  elsif int % 3 == 0 && int % 5 == 0
   "FizzBuzz"
-else
+  else
   "nil"
+  end
 end
-
-end
-
