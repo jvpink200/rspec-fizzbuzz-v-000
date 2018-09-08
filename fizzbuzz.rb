@@ -8,5 +8,3 @@ elsif int % 5 ==0
 end
 
 end
-
-fizzbuzz(3)
