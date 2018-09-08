@@ -13,4 +13,3 @@ end
 
 end
 
-fizzbuzz(15)
